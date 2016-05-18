@@ -1,4 +1,12 @@
 # Circus-Monkey
+
+blah blah blah
+I wish I was at the beach
+at night under a clear starry sky
+with friends who play guitar 
+and a bonfire
+The End
+
 Configuration instructions
 Installation instructions
 Operating instructions
